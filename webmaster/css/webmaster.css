@@ -1,0 +1,82 @@
+*{
+	margin:0;
+	padding: 0;
+}
+
+body{
+	background: #fff url('../../assets/img/002-subtle-light-pattern-background-texture.jpg') 0 0 repeat;
+
+	font-family: "Tahoma";
+}
+
+footer{
+	width: 50%;
+	margin: 20px auto;
+	text-align: right;
+}
+
+/*nav{*/
+/*	margin:20px;*/
+/*	margin-bottom: 30px;
+	width: 100%;
+	background-color: #A9B8ED;
+	padding: 10px;*/
+/*}
+*/
+.button{
+	margin-left: 5px;
+	text-decoration: none;
+	background-color: #5B87C8;
+	padding:10px;
+	color: white;
+	font-size: 12px;
+}
+
+a{
+	text-decoration: none;
+}
+
+.button:hover{
+	background-color: #3F6FC7;
+}
+
+.content{
+	width:50%;
+	margin:25px auto;
+	padding: 20px;
+	background-color: white;
+	border: 7px solid #E1E2DE;
+	border-radius: 5px;
+}
+
+.full{
+	width:100%;
+	background-color: Cyan;
+	padding: 10px;
+	margin-bottom: 30px;
+}
+
+.twenty{
+	width: 20%;
+}
+
+.fourty{
+	width: 25%;
+}
+
+.form-footer{
+	width: 20%;
+	margin: 5px auto;
+	text-align: right;
+}
+
+.form-header{
+	width: 20%;
+	margin: auto;
+	text-align: center;
+}
+
+.pad-twenty{
+	padding-left: 15px;
+	/*padding-right: 15px;*/
+}
